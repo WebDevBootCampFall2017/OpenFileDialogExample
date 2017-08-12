@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsHelloWorld", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFile", "OpenFile\OpenFile.csproj", "{D23B7DFC-6923-461B-BB96-082F1A4FE9ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBR", "PBR\PBR.csproj", "{3A03BBC3-0778-4D3C-BD5E-7ECE261EF0A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D23B7DFC-6923-461B-BB96-082F1A4FE9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D23B7DFC-6923-461B-BB96-082F1A4FE9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D23B7DFC-6923-461B-BB96-082F1A4FE9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A03BBC3-0778-4D3C-BD5E-7ECE261EF0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A03BBC3-0778-4D3C-BD5E-7ECE261EF0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A03BBC3-0778-4D3C-BD5E-7ECE261EF0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A03BBC3-0778-4D3C-BD5E-7ECE261EF0A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
