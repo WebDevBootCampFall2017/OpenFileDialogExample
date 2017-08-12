@@ -1,0 +1,9 @@
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\WindowsFormsHelloWorld\OpenFile\bin\Debug\OpenFile.exe.config
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\WindowsFormsHelloWorld\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\WindowsFormsHelloWorld\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\WindowsFormsHelloWorld\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\WindowsFormsHelloWorld\OpenFile\obj\Debug\OpenFile.Form1.resources
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\WindowsFormsHelloWorld\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\WindowsFormsHelloWorld\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\WindowsFormsHelloWorld\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\LabUser\Documents\Visual Studio 2017\Projects\WindowsFormsHelloWorld\OpenFile\obj\Debug\OpenFile.pdb

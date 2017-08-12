@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsHelloWorld", "WindowsFormsHelloWorld\WindowsFormsHelloWorld.csproj", "{1B5B1217-8104-47FF-B7E4-D14CDFEC57DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFile", "OpenFile\OpenFile.csproj", "{D23B7DFC-6923-461B-BB96-082F1A4FE9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5B1217-8104-47FF-B7E4-D14CDFEC57DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B5B1217-8104-47FF-B7E4-D14CDFEC57DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B5B1217-8104-47FF-B7E4-D14CDFEC57DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B5B1217-8104-47FF-B7E4-D14CDFEC57DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23B7DFC-6923-461B-BB96-082F1A4FE9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23B7DFC-6923-461B-BB96-082F1A4FE9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23B7DFC-6923-461B-BB96-082F1A4FE9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23B7DFC-6923-461B-BB96-082F1A4FE9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
